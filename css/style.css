@@ -90,7 +90,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(https://previews.123rf.com/images/antstang/antstang2302/antstang230200404/198212237-business-woman-is-working-on-laptop-at-office-cute-cartoon-style-background.jpg);
+    background-image: url('https://previews.123rf.com/images/antstang/antstang2302/antstang230200404/198212237-business-woman-is-working-on-laptop-at-office-cute-cartoon-style-background.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
